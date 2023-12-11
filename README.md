@@ -50,6 +50,9 @@
 
 ## Output:
 
+![Screenshot 2023-12-11 161052](https://github.com/Joshitha-YUVARAJ/Ex.-No.-7---SIMULATION-OF-PRE--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/145742770/d5195ea1-df80-4e7b-b70f-6c8c873da81a)
+
+
 ### Name: YUVARAJ JOSHITHA
 ### Register Number:23011447
 
